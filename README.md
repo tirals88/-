@@ -9,3 +9,7 @@
 교재 Q&A 링크 : 'https://groups.google.com/g/ml-dl-book-qna'
 
 https://hanbit.co.kr/store/books/look.php?p_code=B2002963743
+
+교재에서 사용한 패키지 버전 : [ python : 3.6.9, matplotlib : 3.2.2, numpy : 1.18.5, tensorflow : 2.3.0, scikit-learn : 0.22.2 ]
+
+---
